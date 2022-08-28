@@ -1,0 +1,38 @@
+p{
+	font-size: 3vh;
+	color: white;
+}
+body{
+	background: #429FFC;
+	text-align: center;
+}
+
+#im{
+	height: 10vh;
+	padding: 1vh;
+	margin: 1vh;
+	border-radius: 200px;
+}
+
+.div-info{
+	background: white;
+	border: solid;
+	border-radius: 10px;
+	height: 9vh;
+	font-size: 3vh;
+	padding: 1vh;
+	margin: 1vh;
+	width: 90%;
+}
+tr{
+	text-align: left;
+	width: 40%;
+}
+#bk{
+	padding: 1vh;
+	margin: 1vh;
+	background: white;
+	font-size: 3vh;
+	border-radius: 10px;
+	border: solid;
+}

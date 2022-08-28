@@ -1,0 +1,14 @@
+<platform name="android">    
+    <icon src="images/to-do-list.png" density="mdpi" />
+    <icon src="images/to-do-list.png" density="ldpi" />
+    <icon src="images/to-do-list.png" density="hdpi" />
+    <icon src="images/to-do-list.png" density="xhdpi" />
+    <icon src="images/to-do-list.png" density="xxhdpi" />
+</platform>
+<platform name="ios">    
+    <icon src="images/to-do-list.png" density="mdpi" />
+    <icon src="images/to-do-list.png" density="ldpi" />
+    <icon src="images/to-do-list.png" density="hdpi" />
+    <icon src="images/to-do-list.png" density="xhdpi" />
+    <icon src="images/to-do-list.png" density="xxhdpi" />
+</platform>

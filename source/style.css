@@ -1,0 +1,110 @@
+#add{
+	position: fixed;
+	top: 80vh;
+	left: 80%;
+	height: 7vh;
+	background: transparent;
+	border-width: 0px;
+}
+#add-img{
+	height: 7vh;
+}
+#add-i{
+	position: fixed;
+	top: 89vh;
+	left: 80%;
+	height: 7vh;
+	background: transparent;
+	border-width: 0px;
+}
+#add-img-i{
+	height: 7vh;
+}
+
+#task-add{
+	position: fixed;
+	top: 23vh;
+	text-align: center;
+	height: 50vh;
+	width: 95%;
+	border-radius: 20px;
+	border: solid;
+	background: #429FFC;
+}
+.task-inp{
+	font-size: 3vh;
+	height: 5vh;
+	background: white;
+	color: black;
+	border: solid;
+	border-radius: 9px;
+}
+.task-p{
+	color: white;
+	font-size: 4vh;
+}
+.task-btn{
+	background: white;
+	border-radius: 9px;
+	color: black;
+	padding: 1vh;
+	margin: 1vh;
+	border: solid;
+	font-size: 3vh;
+}
+#alert{
+	position: fixed;
+	top: 25vh;
+	width: 95%;
+	border: solid;
+	text-align: center;
+	background: #D1D8DE;
+	height: 30vh;
+	border-radius: 10px;
+}
+#alert-txt{
+	font-size: 4vh;
+	padding: 1vh;
+	margin: 1vh;
+}
+#alert-btn{
+	font-size: 3vh;
+	margin: 1vh;
+	width: 30%;
+	padding: 1vh;
+	background: white;
+	border: solid;
+	border-radius: 10px;
+}
+.note-div{
+	width: 95%;
+	height: 20vh;
+	text-align: center;
+	border: solid;
+	border-radius: 10px;
+	float: left;
+	margin: 1vh;
+}
+.note-date{
+	width: 100%;
+	background: #4494e1;
+	font-size: 4vh;
+	height: 5vh;
+	text-align: center;
+	border-radius: 8px 8px 0px 0px;
+	border: solid;
+	border-width: 0px;
+}
+.note-img{
+	height: 4vh;
+	float: right;
+}
+.note-txt{
+	resize: none;
+	width: 97%;
+	height: 12vh;
+	border-width: 0px;
+	font-size: 3vh;
+}
+body{
+}

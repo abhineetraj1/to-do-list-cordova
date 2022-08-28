@@ -1,0 +1,12 @@
+img{
+	position: fixed;
+	top: 40vh;
+	left: 40%;
+	width: 20%;
+}
+body{
+	text-align: center;
+	background: #4494e1;
+	padding: 0vh;
+	margin: 0vh;
+}
