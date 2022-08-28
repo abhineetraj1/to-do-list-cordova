@@ -62,7 +62,7 @@ cordova build [platform]
 ## Execution
 
 ### For andriod
-1) Download the andriod app from -> [link](https://github.com/abhineetraj1/to-do-list-cordova/blob/main/To_do_list_1_1.9.apk)
+1) Download the andriod app from -> [link](https://github.com/abhineetraj1/to-do-list-cordova/raw/main/To%20do%20list_1_1.9.apk)
 2) Install the downloaded apk.
 
 ## Languages used:-
