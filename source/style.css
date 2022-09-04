@@ -7,7 +7,7 @@
 	border-width: 0px;
 }
 #add-img{
-	height: 7vh;
+	height: 40px;
 }
 #add-i{
 	position: fixed;
@@ -18,7 +18,7 @@
 	border-width: 0px;
 }
 #add-img-i{
-	height: 7vh;
+	height: 40px;
 }
 
 #task-add{
@@ -26,14 +26,15 @@
 	top: 23vh;
 	text-align: center;
 	height: 50vh;
-	width: 95%;
+	width: 93%;
 	border-radius: 20px;
 	border: solid;
 	background: #429FFC;
 }
 .task-inp{
-	font-size: 3vh;
-	height: 5vh;
+	font-size: 19px;
+	height: 29px;
+	width: 85%;
 	background: white;
 	color: black;
 	border: solid;
@@ -41,16 +42,16 @@
 }
 .task-p{
 	color: white;
-	font-size: 4vh;
+	font-size: 24px;
 }
 .task-btn{
 	background: white;
 	border-radius: 9px;
 	color: black;
-	padding: 1vh;
-	margin: 1vh;
+	padding: 2px;
+	margin: 2px;
 	border: solid;
-	font-size: 3vh;
+	font-size: 22px;
 }
 #alert{
 	position: fixed;
@@ -59,50 +60,50 @@
 	border: solid;
 	text-align: center;
 	background: #D1D8DE;
-	height: 30vh;
+	height: 200px;
 	border-radius: 10px;
 }
 #alert-txt{
-	font-size: 4vh;
-	padding: 1vh;
-	margin: 1vh;
+	font-size: 22px;
+	padding: 2px;
+	margin: 2px;
 }
 #alert-btn{
-	font-size: 3vh;
-	margin: 1vh;
+	font-size: 23px;
+	margin: 2px;
 	width: 30%;
-	padding: 1vh;
+	padding: 2px;
 	background: white;
 	border: solid;
 	border-radius: 10px;
 }
 .note-div{
 	width: 95%;
-	height: 20vh;
+	height: 120px;
 	text-align: center;
 	border: solid;
 	border-radius: 10px;
 	float: left;
-	margin: 1vh;
+	margin: 2px;
 }
 .note-date{
 	width: 100%;
 	background: #4494e1;
-	font-size: 4vh;
-	height: 5vh;
+	font-size: 20px;
+	height: 30px;
 	text-align: center;
 	border-radius: 8px 8px 0px 0px;
 	border: solid;
 	border-width: 0px;
 }
 .note-img{
-	height: 4vh;
+	height: 23px;
 	float: right;
 }
 .note-txt{
 	resize: none;
 	width: 97%;
-	height: 12vh;
+	height: 73px;
 	border-width: 0px;
 	font-size: 3vh;
 }
